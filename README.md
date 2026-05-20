@@ -1,6 +1,5 @@
-# Let's create an exceptionally designed README.md content tailored to the exact look and layout requested by the user, incorporating shields/badges mirroring the style of the user's uploaded portfolio section.
 
-readme_content = """# 🛡️ IaC Security Scanning & Cloud Hardening
+ 🛡️ IaC Security 
 
 This project demonstrates a production-grade **Shift-Left Security** implementation using Infrastructure as Code (IaC) auditing frameworks. By incorporating automated security policy enforcement prior to deployment, we mitigate critical cloud misconfigurations—such as wide-open ports and unencrypted storage blocks—ensuring secure-by-default cloud provisioning.
 
