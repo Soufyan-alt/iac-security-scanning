@@ -1,5 +1,5 @@
 
- 🛡️ IaC Security 
+ 🛡️ IaC Security Infrastructure as Code Security  IaC Scanning 
 
 This project demonstrates a production-grade **Shift-Left Security** implementation using Infrastructure as Code (IaC) auditing frameworks. By incorporating automated security policy enforcement prior to deployment, we mitigate critical cloud misconfigurations—such as wide-open ports and unencrypted storage blocks—ensuring secure-by-default cloud provisioning.
 
